@@ -1,3 +1,6 @@
 [submodule "Microfrontends/AppLogin"]
 	path = Microfrontends/AppLogin
 	url = https://github.com/crisantrutibs/AppLogin.git
+[submodule "Microfrontends/AppHome"]
+	path = Microfrontends/AppHome
+	url = https://github.com/crisantrutibs/AppHome.git
